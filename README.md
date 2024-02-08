@@ -55,10 +55,10 @@ This project demonstrates the implementation of an Infinite Scroll feature using
 
 The project structure is organized as follows:
 
--**src/components:** Contains React components.
--**src/services:** Includes functions for making API requests using Axios.
--**src/hooks:** Custom hooks for handling infinite scroll logic.
--**src/App.js:** Main application component.
+- **src/components:** Contains React components.
+- **src/services:** Includes functions for making API requests using Axios.
+- **src/hooks:** Custom hooks for handling infinite scroll logic.
+- **src/App.js:** Main application component.
 
 ## Contributing
 
